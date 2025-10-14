@@ -1,15 +1,29 @@
-Oi Eu sou o OreOFDAY
-Estou aprendendo algumas linguagens de programacao tipo Python e JS e posto meus projetos aqui, uso e ubuntu
+👋 Olá! Eu sou o OreOFDAY
+
+Sou apaixonado por tecnologia e atualmente estou aprendendo e criando projetos em diversas linguagens de programação.
+Uso Ubuntu como sistema principal. 🐧
 
 💻 Linguagens de Programação
-nao domino todas mas sei programar todas
 
-Python Lua HTML5 CSS3 JavaScript
-acabei perdendo minha conta do github antiga
-https://github.com/OreOFDev/
+Não domino todas, mas sei programar em todas 👇
 
-https://camo.githubusercontent.com/d1652ce9d9e41d898ea03bd8772e8accb903947dc6bba2a410d76462f7d63d1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667
-https://camo.githubusercontent.com/6ad886c6b5316e1f57fbb13814a136b20ab99fd5cc7bf73266615d41afe022da/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63662f4c75612d4c6f676f2e737667
-https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667
-https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667
-https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> </p>
+📂 Meus Projetos
+
+Perdi minha conta antiga 😢
+Mas agora estou recomeçando com novos projetos aqui 👉
+🔗 github.com/OreOFDev
+
+🧠 Sobre mim
+
+🚀 Curioso por aprender novas tecnologias
+
+🐍 Fã de Python
+
+🧩 Gosto de criar projetos práticos e simples
+
+🐧 Usuário Linux convicto (Ubuntu)
+
+🌐 Contato
+
+Se quiser trocar ideias ou colaborar em projetos, fique à vontade para me chamar por aqui!
