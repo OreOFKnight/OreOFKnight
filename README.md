@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o OreOFDAY
 
 Sou apaixonado por tecnologia e atualmente estou aprendendo e criando projetos em diversas linguagens de programação.
-Uso Ubuntu como sistema principal. 🐧
+Uso W10, mas queria voltar pro ubuntu... como sistema principal. 🐧
 
 💻 Linguagens de Programação
 
