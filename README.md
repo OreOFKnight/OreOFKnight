@@ -25,5 +25,5 @@ Mas agora estou recomeçando com novos projetos aqui 👉
 🐧 Usuário Linux convicto (Ubuntu)
 
 🌐 Contato
-
+discord: _oreofday12
 Se quiser trocar ideias ou colaborar em projetos, fique à vontade para me chamar por aqui!
