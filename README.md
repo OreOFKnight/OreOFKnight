@@ -33,4 +33,5 @@ Mas agora estou recomeçando com novos projetos aqui 👉
 🌐 Contato
 discord: _oreofday12
 Se quiser trocar ideias ou colaborar em projetos, fique à vontade para me chamar por aqui!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OreOFKnight&layout=compact&theme=tokyonight)
 
