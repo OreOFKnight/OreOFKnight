@@ -33,5 +33,3 @@ Mas agora estou recomeçando com novos projetos aqui 👉
 🌐 Contato
 discord: _oreofday12
 Se quiser trocar ideias ou colaborar em projetos, fique à vontade para me chamar por aqui!
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oreofknight&show_icons=true&locale=en" alt="oreofknight" /></p>
-
